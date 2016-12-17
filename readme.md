@@ -1,0 +1,1 @@
+ Developed an Algorithm for Augmented Reality TicTacToe using Template Matching and Houghlines/houghpeaks algorithm. Developed code in MATLAB using builtin functions and open libraries for template matching. 
